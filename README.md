@@ -1,25 +1,10 @@
 # ra_score
-
-
-https://python-packaging.readthedocs.io/en/latest/minimal.html
-
-
-### Changes
-
-- Added MANIFEST.in: https://python-packaging.readthedocs.io/en/latest/non-code-files.html#adding-non-code-files
-- Remove requirements.txt: use `install_requires` in setup.py instead. 
-- Updated import path: 
-	- import medicaid_model => from rascore import medicaid_model
-	- from scroing import (conditionHierarchy) => from rascore.scoring import (conditionHierarchy)
-	- from scoring import referenceFilesData => from rascore.scoring import referenceFilesData
-- Created package `rascore`:
-	- `ra_score` is github repository name
-	- `rascore` is python package
+This Repository contains RA Scoring Module.
+Repository Name: ra_score
+python Package: rascore
 
 
 ### Test
-
-
 ```sh
 # install rascore package
 ra_score$ pip install .
