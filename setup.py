@@ -7,7 +7,6 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        python
     ],
     python_requires='>=3.6',
 
