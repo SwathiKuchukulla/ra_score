@@ -13,8 +13,7 @@ pip install git+https://github.com/SwathiKuchukulla/ra_score.git
 Collecting git+https://github.com/SwathiKuchukulla/ra_score.git
   Cloning https://github.com/SwathiKuchukulla/ra_score.git to c:\users\srkuch~1\appdata\local\temp\pip-req-build-0j2ycc2q
 Building wheels for collected packages: Risk-Adjustment-Scoring-Engine
-  Running setup.py bdist_wheel for Risk-Adjustment-Scoring-Engine ... done
-  Stored in directory: C:\Users\SRKUCH~1\AppData\Local\Temp\pip-ephem-wheel-cache-h7x4rcag\wheels\17\c0\b6\2adefcd13645cbe851a13572bb4b32188cd03a3d41cfb90b39
+  Running setup.py bdist_wheel for Risk-Adjustment-Scoring-Engine ... done  
 Successfully built Risk-Adjustment-Scoring-Engine
 Installing collected packages: Risk-Adjustment-Scoring-Engine
 Successfully installed Risk-Adjustment-Scoring-Engine-0.1
